@@ -1,0 +1,5 @@
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/bin/Release/net5.0/publish/QAWebApp2202
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/bin/Release/net5.0/publish/QAWebApp2202.dll
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/bin/Release/net5.0/publish/QAWebApp2202.deps.json
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/bin/Release/net5.0/publish/QAWebApp2202.runtimeconfig.json
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/bin/Release/net5.0/publish/QAWebApp2202.pdb

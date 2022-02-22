@@ -1,0 +1,16 @@
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/bin/Release/net5.0/QAWebApp2202
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/bin/Release/net5.0/QAWebApp2202.deps.json
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/bin/Release/net5.0/QAWebApp2202.runtimeconfig.json
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/bin/Release/net5.0/QAWebApp2202.runtimeconfig.dev.json
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/bin/Release/net5.0/QAWebApp2202.dll
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/bin/Release/net5.0/ref/QAWebApp2202.dll
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/bin/Release/net5.0/QAWebApp2202.pdb
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/obj/Release/net5.0/QAWebApp2202.csproj.AssemblyReference.cache
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/obj/Release/net5.0/QAWebApp2202.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/obj/Release/net5.0/QAWebApp2202.AssemblyInfoInputs.cache
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/obj/Release/net5.0/QAWebApp2202.AssemblyInfo.cs
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/obj/Release/net5.0/QAWebApp2202.csproj.CoreCompileInputs.cache
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/obj/Release/net5.0/QAWebApp2202.dll
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/obj/Release/net5.0/ref/QAWebApp2202.dll
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/obj/Release/net5.0/QAWebApp2202.pdb
+/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/obj/Release/net5.0/QAWebApp2202.genruntimeconfig.cache

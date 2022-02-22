@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/QAWebApp2202.csproj": {}
+  },
+  "projects": {
+    "/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/QAWebApp2202.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/QAWebApp2202.csproj",
+        "projectName": "QAWebApp2202",
+        "projectPath": "/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/QAWebApp2202.csproj",
+        "packagesPath": "/Users/afrajamion/.nuget/packages/",
+        "outputPath": "/Users/afrajamion/Projects/QAWebApp2202/QAWebApp2202/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/afrajamion/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
